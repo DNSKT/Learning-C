@@ -3,6 +3,7 @@
 #define CAR(x) (int)x
 
 int main(){
+
 /*     int a = 80;
     printf(" entero %i\n flotante %.2f\n doble %.3f\n caracter %c\n", a, (float)a, (double)a, (char)a);
     
@@ -15,7 +16,6 @@ int main(){
     printf("ingrese un caracter\n");
     scanf("%s", &c);
     printf("el numero es: %i\n", (int)c); */
-
 
     int a;
     printf("> ingrese un numero\n\t");
